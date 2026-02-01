@@ -4,7 +4,6 @@
 A full-stack job board that automatically aggregates and curates entry-level opportunities using an automated data pipeline and AI-assisted vetting.
 <br/>
 <br/>
-<img alt="logo" title="start-it" width="160px" src=""/> 
 [<img alt="start-it logo" title="start-it" width="160px" src="https://russellwaring.github.io/start-it/assets/logo1-Cuq9e9Wt.png"/>][website]
 
 ## 🎯 Features
