@@ -32,9 +32,11 @@ Infra:<br/>
 - ⬜ Filters
 - ⬜ Save jobs to a personal list
 - ⬜ User creation and authentication
+
 **Resources Section**
 - ✅ Resource page layout
 - ⬜ Qualified resource links
+
 **Data Pipeline**
 - ⬜ Web scraper implementation
 - ⬜ AI for qualifying job listings
