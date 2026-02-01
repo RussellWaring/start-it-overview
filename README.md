@@ -1,12 +1,12 @@
 [Documentation](https://github.com/RussellWaring/start-it-overview/tree/main/documentation)
 
-# start-it
+# start-it.ca
 A full-stack job board that automatically aggregates, filters, and curates entry-level opportunities using an automated data pipeline and AI-assisted vetting.
 <br/>
 <br/>
 <img alt="logo" title="start-it" width="160px" src="https://russellwaring.github.io/start-it/assets/logo1-Cuq9e9Wt.png"/> 
 
-## Features
+## 🎯 Features
 - Discover curated entry-level job opportunities  
 - Filter and browse listings by role and keywords  
 - View detailed job information  
