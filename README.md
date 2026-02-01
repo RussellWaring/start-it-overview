@@ -1,7 +1,7 @@
 [Documentation](https://github.com/RussellWaring/start-it-overview/tree/main/documentation)
 
 # start-it.ca
-A full-stack job board that automatically aggregates, filters, and curates entry-level opportunities using an automated data pipeline and AI-assisted vetting.
+A full-stack job board that automatically aggregates and curates entry-level opportunities using an automated data pipeline and AI-assisted vetting.
 <br/>
 <br/>
 <img alt="logo" title="start-it" width="160px" src="https://russellwaring.github.io/start-it/assets/logo1-Cuq9e9Wt.png"/> 
@@ -30,7 +30,7 @@ Infra:<br/>
 **Core Platform**
 - ✅ Job board layout
 - ⬜ Filters
-- ⬜ Save jobs
+- ⬜ Save jobs to a personal list
 - ⬜ User creation and authentication
 **Resources Section**
 - ✅ Resource page layout
@@ -40,6 +40,6 @@ Infra:<br/>
 - ⬜ AI for qualifying job listings
 
 ## 🌐 Live Demo
-Check out the live site here:
+Try the live site here:
 <br/>
 👉 https://start-it.ca
