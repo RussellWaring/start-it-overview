@@ -2,7 +2,8 @@
 
 # start-it
 A full-stack job board web app designed to help users discover entry-level career opportunities
-<img alt="logo" title="start-it" width="80px" src="https://russellwaring.github.io/start-it/assets/logo1-Cuq9e9Wt.png"/> 
+<br/>
+<img alt="logo" title="start-it" width="160px" src="https://russellwaring.github.io/start-it/assets/logo1-Cuq9e9Wt.png"/> 
 
 ## Features
 - Browse and filter job postings (placeholder data, for now)
