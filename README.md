@@ -2,7 +2,7 @@
 
 # start-it
 A full-stack job board web app designed to help users discover entry-level career opportunities
-![logo](https://russellwaring.github.io/start-it/assets/logo1-Cuq9e9Wt.png)
+<img alt="logo" title="start-it" width="80px" src="https://russellwaring.github.io/start-it/assets/logo1-Cuq9e9Wt.png"/> 
 
 ## Features
 - Browse and filter job postings (placeholder data, for now)
@@ -11,10 +11,10 @@ A full-stack job board web app designed to help users discover entry-level caree
 
 ## Tech
 ### Full-Stack Web App • BaaS Architecture • Automated Data Pipeline
-Frontend: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-Backend: ![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-Infra: ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
+Frontend: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)<br/>
+Backend: ![Supabase](https://img.shields.io/badge/Supabase-1E1E1E?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)<br/>
+Database: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)<br/>
+Infra: ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)<br/>
 
 ## MVP 1
 **Core Platform**
