@@ -46,4 +46,4 @@ Try the live site here:
 <br/>
 👉 https://start-it.ca
 
-[website]: https://start-it.ca
+[website]: https://www.start-it.ca
