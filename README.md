@@ -44,6 +44,6 @@ Infra:<br/>
 ## 🌐 Live Demo
 Try the live site here:
 <br/>
-👉 https://start-it.ca
+👉 https://www.start-it.ca
 
 [website]: https://www.start-it.ca
